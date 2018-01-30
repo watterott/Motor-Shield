@@ -7,7 +7,3 @@ Shield for Arduino to drive DC-Motors, Solenoids or Relays.
 
 ## Shop
 * [Motor-Shield](http://www.watterott.com/en/Motor-Shield-Watterott)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/Motor-Shield/tree/master/hardware)
